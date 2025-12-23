@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tejas\\source\\repos\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|c:\\users\\tejas\\source\\repos\\bookmanagement\\bookmanagement\\views\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\views\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|c:\\users\\tejas\\source\\repos\\bookmanagement\\bookmanagement\\dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|c:\\users\\tejas\\source\\repos\\bookmanagement\\bookmanagement\\views\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\views\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|c:\\users\\tejas\\source\\repos\\bookmanagement\\bookmanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBB155-1E8C-4262-835D-0FD944DD6498}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.aspx",
+              "DocumentMoniker": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Views\\Books.aspx",
+              "RelativeDocumentMoniker": "BookManagement\\Views\\Books.aspx",
+              "ToolTip": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Views\\Books.aspx",
+              "RelativeToolTip": "BookManagement\\Views\\Books.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-20T19:40:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\DAL\\BookDAL.cs",
+              "RelativeDocumentMoniker": "BookManagement\\DAL\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\DAL\\BookDAL.cs",
+              "RelativeToolTip": "BookManagement\\DAL\\BookDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:57:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Views\\Books.aspx.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Views\\Books.aspx.cs",
+              "ToolTip": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Views\\Books.aspx.cs",
+              "RelativeToolTip": "BookManagement\\Views\\Books.aspx.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T19:50:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\tejas\\source\\repos\\BookManagement\\BookManagement\\Model\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Model\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:56:55.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
